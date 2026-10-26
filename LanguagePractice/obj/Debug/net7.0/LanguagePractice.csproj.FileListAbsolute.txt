@@ -1,0 +1,15 @@
+/Users/anishkumar/Projects/LanguagePractice/LanguagePractice/bin/Debug/net7.0/LanguagePractice
+/Users/anishkumar/Projects/LanguagePractice/LanguagePractice/bin/Debug/net7.0/LanguagePractice.deps.json
+/Users/anishkumar/Projects/LanguagePractice/LanguagePractice/bin/Debug/net7.0/LanguagePractice.runtimeconfig.json
+/Users/anishkumar/Projects/LanguagePractice/LanguagePractice/bin/Debug/net7.0/LanguagePractice.dll
+/Users/anishkumar/Projects/LanguagePractice/LanguagePractice/bin/Debug/net7.0/LanguagePractice.pdb
+/Users/anishkumar/Projects/LanguagePractice/LanguagePractice/obj/Debug/net7.0/LanguagePractice.csproj.AssemblyReference.cache
+/Users/anishkumar/Projects/LanguagePractice/LanguagePractice/obj/Debug/net7.0/LanguagePractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anishkumar/Projects/LanguagePractice/LanguagePractice/obj/Debug/net7.0/LanguagePractice.AssemblyInfoInputs.cache
+/Users/anishkumar/Projects/LanguagePractice/LanguagePractice/obj/Debug/net7.0/LanguagePractice.AssemblyInfo.cs
+/Users/anishkumar/Projects/LanguagePractice/LanguagePractice/obj/Debug/net7.0/LanguagePractice.csproj.CoreCompileInputs.cache
+/Users/anishkumar/Projects/LanguagePractice/LanguagePractice/obj/Debug/net7.0/LanguagePractice.dll
+/Users/anishkumar/Projects/LanguagePractice/LanguagePractice/obj/Debug/net7.0/refint/LanguagePractice.dll
+/Users/anishkumar/Projects/LanguagePractice/LanguagePractice/obj/Debug/net7.0/LanguagePractice.pdb
+/Users/anishkumar/Projects/LanguagePractice/LanguagePractice/obj/Debug/net7.0/LanguagePractice.genruntimeconfig.cache
+/Users/anishkumar/Projects/LanguagePractice/LanguagePractice/obj/Debug/net7.0/ref/LanguagePractice.dll
