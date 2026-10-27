@@ -12,7 +12,9 @@ namespace LanguagePractice
 			{
 				Console.WriteLine(value);
 			}
-			
+
+
+			// We can study array methods in detail at any time.
 		}
 	}
 }

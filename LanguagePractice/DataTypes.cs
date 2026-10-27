@@ -49,11 +49,11 @@ namespace LanguagePractice
 			char c1 = 'A';
 
 			// var
-			var surname = "kumar";
+			var surname = "kumar"; // we can assign any type of value in it. 
 			//surname = 4; // this will give a compile time error because var data type has been assigned at compile time.
 
 			// dynamic
-			dynamic full_name = "Anish Kumar";
+			dynamic full_name = "Anish Kumar"; // any type of value can be assigned at any time.
 			full_name = 55; // dynamic variable has been assigned at run time . so it will not give an error.
 
 			// object

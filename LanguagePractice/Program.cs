@@ -9,6 +9,8 @@ namespace LanguagePractice
             DataTypes.dataTypes();
             TypeConversion.typeConversion();
             Arrays.array();
+            SwitchCase.switch_case();
+            // concept of class, methods and objects already done.
         }
     }
 }
